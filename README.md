@@ -1,2 +1,2 @@
-# bookish-guide
+# Console-Calculator
 A console calculator: all four arithmetic operations in their correct order.
